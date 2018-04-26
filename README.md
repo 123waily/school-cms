@@ -1,7 +1,5 @@
 # School Content Management System
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MpxcKblkl8w/0.jpg)](http://www.youtube.com/watch?v=MpxcKblkl8w)
-
 ## Purpose and Usage
 
 Titled **Semitime**, this application is a content management system created for my high school, [Semiahmoo Secondary School](https://www.surreyschools.ca/schools/semi/Pages/default.aspx). I started this application in my sophomore year and completed it around the beginning of junior year, or 2015/01 - 2015/09.
@@ -18,6 +16,7 @@ The mobile client contains the following features:
 - ToDo App
 - Push Notifications
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MpxcKblkl8w/0.jpg)](http://www.youtube.com/watch?v=MpxcKblkl8w)
 
 ## Implementation
 
