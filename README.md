@@ -16,10 +16,14 @@ The mobile client contains the following features:
 - ToDo App
 - Push Notifications
 
+## Video Demo
+
 <a href="https://www.youtube.com/watch?v=MpxcKblkl8w">
   <p align="center">
-  <img src="./demo.gif" height="70%" width="70%">
+  <img src="./demo.gif" height="80%" width="80%">
 </p></a>
+
+<br/>
 
 ## Implementation
 
