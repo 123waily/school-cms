@@ -16,9 +16,10 @@ The mobile client contains the following features:
 - ToDo App
 - Push Notifications
 
-## Video Demo
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MpxcKblkl8w/0.jpg)](http://www.youtube.com/watch?v=MpxcKblkl8w)
+<a href="https://www.youtube.com/watch?v=MpxcKblkl8w">
+  <p align="center">
+  <img src="https://i.imgur.com/ktGgvMP.gif" height="70%" width="70%">
+</p></a>
 
 ## Implementation
 
@@ -33,12 +34,23 @@ When a new JSON file is serialized, a MD5 hash is generated. Upon each refresh o
 
 I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack on Ubuntu Linux, and with Corona SDK on Mac OSX 10.9.
 
-## Screenshot of Mobile Client
+## Screenshots
+### Mobile Client
 
-<img src="https://i.imgur.com/ZOC52Re.png" width="400">
-<img src="https://i.imgur.com/MGJwUUP.png" width="400">
-<img src="https://i.imgur.com/tisCOsv.png" width="400">
+<p align="center">
+  <img src="https://i.imgur.com/ZOC52Re.png" width="400">
+</p>
 
-## Screenshot of Server Interface
+<p align="center">
+  <img src="https://i.imgur.com/MGJwUUP.png" width="400">
+</p>
 
-<img src="https://i.imgur.com/zo6epES.png">
+<p align="center">
+  <img src="https://i.imgur.com/tisCOsv.png" width="400">
+</p>
+
+### Server Interface
+
+<p align="center">
+  <img src="https://i.imgur.com/zo6epES.png" width="400">
+</p>
