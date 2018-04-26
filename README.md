@@ -23,7 +23,7 @@ The mobile client contains the following features:
   <img src="./demo.gif" height="80%" width="80%">
 </p></a>
 
-<br/>
+Click on the image for the full video demo.
 
 ## Implementation
 
