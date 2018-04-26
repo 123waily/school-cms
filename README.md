@@ -31,7 +31,7 @@ Through the server frontend, administrators modify class ordering or special eve
 
 When a new JSON file is serialized, a MD5 hash is generated. Upon each refresh of the mobile client, the client downloads the MD5 hash and checks if its internal database is different from the server's database with the MD5 hash. If the MD5 hashes don't match, the client requests the JSON file and updates its own database.
 
-I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack on Ubuntu Linux.
+I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack on Ubuntu Linux, and with Corona SDK on Mac OSX 10.9.
 
 ## Screenshot of Mobile Client
 
