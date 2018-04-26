@@ -39,4 +39,4 @@ I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack o
 
 ## Screenshot of Server Interface
 
-<img src="https://i.imgur.com/zo6epES.png" width="400">
+<img src="https://i.imgur.com/zo6epES.png">
