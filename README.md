@@ -16,6 +16,8 @@ The mobile client contains the following features:
 - ToDo App
 - Push Notifications
 
+## Video Demo
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MpxcKblkl8w/0.jpg)](http://www.youtube.com/watch?v=MpxcKblkl8w)
 
 ## Implementation
