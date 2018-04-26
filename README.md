@@ -2,7 +2,7 @@
 
 ## Purpose and Usage
 
-Titled **Semitime**, this application is a content management system created for my high school, [Semiahmoo Secondary School](https://www.surreyschools.ca/schools/semi/Pages/default.aspx). I started this application in my sophomore year and completed it around the beginning of junior year, or 2015/01 - 2015/09.
+Titled **Semitime**, this application is a content management system created for my high school, [Semiahmoo Secondary School](https://www.surreyschools.ca/schools/semi/Pages/default.aspx). I started this application in my sophomore year of high school and completed it around the beginning of junior year, or from January 2015 to September 2015.
 
 My high school has a rotating class ordering (known as *block order* in my high school) for every day of the week. While the class ordering is usually consistent, the class ordering deviates from the norm during holidays, exam days, and on Fridays. This has been a source of confusion for many students in my high school, so I created an app that achieves the following purpose:
 
