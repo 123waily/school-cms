@@ -38,6 +38,8 @@ When a new JSON file is serialized, a MD5 hash is generated. Upon each refresh o
 
 I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack on Ubuntu Linux, and with Corona SDK on Mac OSX 10.9.
 
+This app uses the font [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans) by Santiago Orozco.
+
 ## Screenshots
 ### Mobile Client
 
@@ -56,5 +58,5 @@ I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack o
 ### Server Interface
 
 <p align="center">
-  <img src="https://i.imgur.com/zo6epES.png" width="400">
+  <img src="https://i.imgur.com/zo6epES.png" width="80%">
 </p>
