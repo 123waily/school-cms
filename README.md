@@ -1,5 +1,7 @@
 # School Content Management System
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MpxcKblkl8w/0.jpg)](http://www.youtube.com/watch?v=MpxcKblkl8w)
+
 ## Purpose and Usage
 
 Titled **Semitime**, this application is a content management system created for my high school, [Semiahmoo Secondary School](https://www.surreyschools.ca/schools/semi/Pages/default.aspx).
@@ -16,19 +18,6 @@ The mobile client contains the following features:
 - ToDo App
 - Push Notifications
 
-#### Video Demo
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MpxcKblkl8w/0.jpg)](http://www.youtube.com/watch?v=MpxcKblkl8w)
-
-#### Screenshot of Server Interface
-
-<img src="https://i.imgur.com/zo6epES.png" width="400">
-
-#### Screenshot of Mobile Client
-
-<img src="https://i.imgur.com/ZOC52Re.png" width="400">
-<img src="https://i.imgur.com/MGJwUUP.png" width="400">
-<img src="https://i.imgur.com/tisCOsv.png" width="400">
 
 ## Implementation
 
@@ -42,3 +31,13 @@ Through the server frontend, administrators modify class ordering or special eve
 When a new JSON file is serialized, a MD5 hash is generated. Upon each refresh of the mobile client, the client downloads the MD5 hash and checks if its internal database is different from the server's database with the MD5 hash. If the MD5 hashes don't match, the client requests the JSON file and updates its own database.
 
 I originally tested the app using a LAMP (Linux, Apache, MySQL, and php) stack on Ubuntu Linux.
+
+## Screenshot of Mobile Client
+
+<img src="https://i.imgur.com/ZOC52Re.png" width="400">
+<img src="https://i.imgur.com/MGJwUUP.png" width="400">
+<img src="https://i.imgur.com/tisCOsv.png" width="400">
+
+## Screenshot of Server Interface
+
+<img src="https://i.imgur.com/zo6epES.png" width="400">
