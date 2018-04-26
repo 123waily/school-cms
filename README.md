@@ -18,7 +18,7 @@ The mobile client contains the following features:
 
 <a href="https://www.youtube.com/watch?v=MpxcKblkl8w">
   <p align="center">
-  <img src="https://i.imgur.com/ktGgvMP.gif" height="70%" width="70%">
+  <img src="./demo.gif" height="70%" width="70%">
 </p></a>
 
 ## Implementation
